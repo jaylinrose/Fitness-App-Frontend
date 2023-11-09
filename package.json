@@ -1,5 +1,5 @@
 {
-  "proxy": "https://my-fitness-tracker-f.onrender.com/",
+  "proxy": "https://fitness-app-frontend-3cru.onrender.com/",
   "name": "client",
   "version": "0.1.0",
   "private": true,
